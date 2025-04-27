@@ -1,0 +1,18 @@
+/* using this hash for using id of the h1 */
+#heading{ 
+    color: blue;
+    background-color: yellow;
+}
+
+.heading{
+    color: white;
+    background-color: lightgreen;
+}
+
+body{
+    background-color: pink;
+}
+button{
+    background-color: navy ;
+    color: white;
+}
