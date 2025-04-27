@@ -57,3 +57,9 @@
 
 let div = document.querySelector("div");
     console.dir(div);
+    //tagNmae = returns tag for element nodes 
+    // inner Text = pure textual content
+    // inner HTML content = pure textual content also Html content
+    // textContent = textual content for hidden elements
+
+    let heading = document.querySelector("h1");
